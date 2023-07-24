@@ -1,4 +1,4 @@
-package HangsmanGame;
+package hangsman;
 
 public enum Scaffold {
     ZERO {

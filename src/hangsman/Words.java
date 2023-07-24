@@ -1,4 +1,4 @@
-package HangsmanGame;
+package hangsman;
 
 import java.util.ArrayList;
 import java.util.Arrays;

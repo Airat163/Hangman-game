@@ -1,8 +1,8 @@
-package HangsmanGame;
+package hangsman;
 
 import java.util.*;
 
-import static HangsmanGame.Scaffold.*;
+import static hangsman.Scaffold.*;
 
 public class Game {
     private static final Scaffold[] SCAFFOLDS =
